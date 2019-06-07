@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Josh Coburn'
-SITENAME = 'Chronicles in Mechine Learning'
+SITENAME = 'Chronicles in Machine Learning'
 SITEURL = ''
 
 PATH = 'content'
