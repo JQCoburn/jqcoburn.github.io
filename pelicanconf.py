@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Josh Coburn'
 SITENAME = 'Chronicles in Machine Learning'
-SITEURL = ''
+SITEURL = 'http://jqcoburn.github.io'
 
 PATH = 'content'
 
